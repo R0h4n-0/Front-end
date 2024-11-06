@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+nav{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    padding-bottom: 100px;
+}
+
+ul{
+    width: 100%;
+    height: 90px;
+    background-color: black;
+    position: fixed;
+}
+ul li{
+    display: inline-flex;
+    width:21%;
+}
+ul li a{
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+    margin-left: 50%;
+    font-size: x-large;
+    display: flex;
+}
+/* .contents{
+    background-color: rgba(255, 255, 255, 1);
+    height: 200px;
+    width: 450px;
+    left: 756px;
+    top: 249px;
+    margin-left: 150px;
+    margin-top: 75px;
+    display: flex;
+} */
+/* .rows{
+    display: flex;
+    padding-top: 10px;
+} */
+
+nav{
+    position: fixed;
+    height: 115px;
+    background-color: black;
+}
+/* img{
+    width: 150px;
+    height: 200px;
+    size: fill;
+} */
+/* .text{
+    
+    
+    width: 300px;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 1);
+    color: black;
+} */
+/* p{
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 24px;
+    text-align: center;
+} */
+/* .space{
+    background-color: black;
+    height: 80px;
+} */
+.navicons{
+    width: 23px;
+    height: 23px;
+}
+.login{
+    width: 23px;
+    height: 26px;
+    padding-top: 5px;
+}

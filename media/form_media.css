@@ -1,0 +1,31 @@
+@media (max-width:551px){
+    .register{
+        padding-right: 20%;
+        height: 700px;
+    }
+    input{
+        background-color: gray;
+        width: 31%;
+        height: 20px;
+        border: none;
+        border-radius: 10px;
+        padding: 20px; 
+        width: px;
+        height: 15px;  
+        
+    }
+    #email{
+        width: 90%;
+    }
+    .phone{
+        width: 90%;
+    }
+    #submit{
+        color: white;
+        background-color: blue;
+        align-content: center;
+        justify-content: center;
+        margin-bottom: 10%;
+        margin-left: 13%;
+    }
+}

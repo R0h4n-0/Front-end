@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+.texts{
+    margin-top: 3%;
+    justify-content: center;
+    text-align: center;
+    /* align-items: center; */
+    /* padding-left: 40%; */
+    /* color: rgb(138, 0, 0); */
+    font-size: 140%;
+    color: white;
+}
+#d{
+    align-items: center;
+    color: blue;
+}
+.bg{
+    padding-top: 2%;
+    
+    /* margin-top: 50%; */
+}
+.p{
+    color: white;
+    text-align: center;
+    font-size: 150%;
+}
+.b{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+}
+.d{
+    padding-bottom: -8%;
+    font-size: 140%;
+}
+a{
+    text-decoration: none;
+}

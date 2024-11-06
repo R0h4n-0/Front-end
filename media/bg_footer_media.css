@@ -1,0 +1,19 @@
+@media (max-width:551px){
+    .medias{
+        background-color: rgb(103, 0, 0);
+        padding-top: -2px;
+    }
+    .connect{
+        background-color: rgb(103, 0, 0);
+        padding-left: 30%;
+    }
+    #medias{
+        padding-left: 00%;
+    }
+    .icons{
+        width: 70%;
+    }
+    #fb{
+        padding-bottom: -50%;
+    }
+}

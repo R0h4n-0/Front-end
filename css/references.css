@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    
+}
+.p{
+    text-decoration: none;
+    color: white;
+    padding-left: 20%;
+    font-size: 200%;
+}
+.images{
+    display: flex;
+    padding-top: 5%;
+    padding-left: 10%;
+}
+#images{
+    width: 10%;
+    height: 10%;
+}
+h1{
+    padding-top: 10%;
+    color: white;
+    text-align: center;
+}
+.pages{
+    display: flex;
+}
+#pages{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 4%;
+    padding-left: 15%;
+}
+.space3{
+    height: 100px; background-color: black;
+}

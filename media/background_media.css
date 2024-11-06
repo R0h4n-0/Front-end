@@ -1,0 +1,34 @@
+@media (max-width:551px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+    .background{
+        width: 500px;
+    }
+    video{
+        position: fixed;
+    }
+    .Description{
+        margin-top: 50%;
+        color: white;
+        margin-left: -100%;
+        width: 140%;
+        height: 010%;
+    }
+    h2{
+        margin-top: 00%;
+        text-align: center;
+    }
+    body{
+        width: 550px;
+        overflow: scroll;
+        background: rgb(0,0,0);
+        background-color: black;
+    }
+    #abc{
+        height: 200px;
+        margin-top: 00%;
+        right: 100%;
+    }
+}

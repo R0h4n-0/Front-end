@@ -1,0 +1,13 @@
+@media (max-width:551px) {
+    .d{
+        font-size: 80%;
+    }
+    .b{
+        margin-bottom: -5%;
+        font-size: 90%;
+    }
+    .p{
+        font-size: 80%;
+        margin-top: -5%
+    };
+}
